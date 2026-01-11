@@ -199,3 +199,17 @@ This was conquest aimed at the future, not just the present.
 
 **Bridge to Lecture 2:**  
 As conquest solidified, Americans faced a new problem—how to remember what they had done, and how to transform violence into national memory.
+
+## Lecture Prep: Suggested Readings (Instructor)
+
+1. Patricia Limerick, *The Legacy of Conquest* (1987)  
+2. Benjamin Madley, *An American Genocide: The United States and the California Indian Catastrophe* (2016)  
+3. Dee Brown, *Bury My Heart at Wounded Knee* (1970)  
+4. Pekka Hämäläinen, *The Comanche Empire* (2008)  
+5. Nick Estes, *Our History Is the Future* (2019)  
+6. David Wallace Adams, *Education for Extinction: American Indians and the Boarding School Experience* (1995)  
+7. Roxanne Dunbar-Ortiz, *An Indigenous Peoples’ History of the United States* (2014)  
+8. Daniel K. Richter, *Facing East from Indian Country* (2001)
+
+*You do not need all of these for any single pass; together they anchor the lecture across conquest, policy, and Indigenous-centered interpretation.*
+

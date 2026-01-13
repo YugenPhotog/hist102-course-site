@@ -1,5 +1,11 @@
 # HIST 102 — United States History Since 1877
 
+revised Jan 2026
+Local path suggestion:
+D:\01_TEACHING\Course_Githubs\hist102\
+Remote: https://github.com/YugenPhotog/hist102-course-site.git
+
+
 This repository contains lecture materials, Reveal.js slide decks, and supporting content
 for RCC HIST 102 (United States History Since 1877).
 

@@ -82,3 +82,54 @@ Students don’t benefit from the vocabulary fight at this level. The meaningful
   - PPTX (PowerPoint)
   - Reveal.js HTML deck (Canvas-ready)
   - PDF handouts for student note-taking
+
+---
+
+## 🔎 Teaching Notes (for next semester)
+
+### Overall suitability (Week 1 use, before textbook)
+This 3-lecture sequence is **highly suitable** for first-year community college students and works well as a **Week 1 “operating system install”** before textbook content:
+
+- establishes **history as argument**, not trivia
+- introduces “engines of change” (frameworks) as a reusable thinking tool
+- provides vocabulary for interpreting textbooks and primary sources
+- sets up later historian case studies (Adams → Turner → Becker → Zinn)
+
+### Strengths
+- Strong conceptual ladder: **history → historiography → frameworks → ideology → historian case studies**
+- Engagement moves are appropriate for CC students (definition activity, discussion prompts, one-minute paper)
+- “Engines of Change” metaphor makes historiography concrete and memorable
+
+### Predictable student trouble spots (and how to address)
+- **Vocabulary overload risk:** terms like *ideology, dialectic, teleology, public sphere* can overwhelm freshmen  
+  → define once, then reuse with concrete examples
+- **Becker misunderstanding risk:** students may hear “facts don’t exist…” as nihilism (“history is just opinion”)  
+  → explicitly counter with: “Interpretation ≠ anything-goes; evidence constrains arguments”
+- **Ideology / Marxism / nationalism identity-trigger risk:** some students shift into culture-war mode  
+  → frame as analytical tool: ideology shapes selection, emphasis, and moral framing
+- **Zinn segment:** best used as a **methods case study** (“How does the lens shape the narrative?”), not merely a partisan verdict  
+  → ensure students can apply the same critique method to any historian/textbook
+
+### Key revisions applied in this split
+- Renamed Slide 13 from **“Historicism” → “Determinism”**, because the slide is actually teaching determinism/anti-agency models
+  - clarified examples: **Marx (material/class forces)** and **Freud (drives/unconscious constraint)**
+- Softened absolutist phrasing in the nationalism section so slide text better matches lecture nuance
+
+---
+
+## 🧰 Framework Cheat Sheet (next-semester reminder)
+
+A reusable student handout was created to reinforce Day 1 concepts and improve transfer to writing and exams:
+
+- `/mnt/data/Historiography_Framework_Cheat_Sheet.md`
+
+It provides quick reference definitions + sentence starters for:
+- Agency
+- Great Man Theory
+- Determinism
+- Ideology
+- Marxism
+- Nationalism
+- Evidence Check (reading like a historian)
+
+This sheet is designed for **first-year CC students** to keep frameworks active throughout the semester (not just Week 1).

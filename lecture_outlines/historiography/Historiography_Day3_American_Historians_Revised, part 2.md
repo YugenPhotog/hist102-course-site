@@ -1,5 +1,47 @@
 ## Part 2
 
+## Carl Becker: The Question of Objectivity
+
+Now, running through all of these debates is a deeper question, one that the historian Carl Becker posed with particular clarity: Is historical objectivity even possible?
+
+In his famous 1931 presidential address to the American Historical Association, titled 'Everyman His Own Historian,' Becker challenged the scientific pretensions of his profession. History, he argued, is not simply 'what happened'—it is a construction that exists in the historian's mind.
+
+The past itself is gone. It cannot be recovered. What we have are traces—documents, artifacts, memories—and the historian must select from these traces, organize them into a coherent narrative, decide what matters and what doesn't. This process of selection is inevitably shaped by the historian's own concerns, by the questions that seem important in their own time.
+
+Becker's insight was that every generation creates the history it needs. The past doesn't speak for itself; it answers only the questions we ask it. And the questions we ask are determined by our present circumstances.
+
+***Connecting to Day One***
+
+Remember when I said on Day One that history is an argument about the past? Becker is the historian who made that case most forcefully within the profession itself. He's providing the theoretical grounding for our entire approach in this unit.
+
+This doesn't mean that all historical claims are equally valid, or that we can simply make up the past. The evidence constrains us; professional standards discipline us. But within those constraints, there is always interpretation. There is always choice. There is always a perspective.
+
+Becker was asking us to be more humble about what history can achieve, and more honest about what historians actually do.
+
+
+
+## 
+
+## Charles A. Beard: Following the Money
+
+Let's shift gears now from questions of race to questions of class and economic interest. In 1913—the same era as the Dunning School but with very different concerns—Charles A. Beard published An Economic Interpretation of the Constitution of the United States, and it landed like a bomb in the historical profession.
+
+Beard's thesis was startlingly simple: What if we stopped treating the Founding Fathers as demigods motivated by pure philosophical idealism, and instead asked a basic question—who benefited?
+
+Beard went through the financial records. He examined the investments, the land holdings, the business interests of the men who wrote and ratified the Constitution. And he concluded that these were not disinterested statesmen sacrificing for the common good. They were, many of them, bondholders, creditors, and speculators who stood to gain directly from a strong central government that could pay its debts and protect commercial interests.
+
+This was shocking. Remember, this was the Progressive Era—a time when Americans were increasingly skeptical of economic elites, of the robber barons who dominated industry and finance. Beard was suggesting that this skepticism should extend backward in time, to the very founding of the Republic.
+
+***Historiographical Analysis: Beard***
+
+Beard represented what historians call the Progressive School. These scholars saw American history not as a story of consensus and shared values, but as a series of conflicts between economic groups: farmers versus merchants, debtors versus creditors, workers versus capitalists.
+
+**What's the critique of this approach?** Remember what we said about Marxism: it can distort by slanting, by overemphasizing economic factors. Subsequent scholars have challenged many of Beard's specific claims. His evidence was sometimes selective; his conclusions were sometimes overstated. Did the Founders have economic interests? Certainly. Were those interests the primary or sole motivation for the Constitution? That's much harder to prove.
+
+But Beard's fundamental question—who benefits from particular historical arrangements?—remains essential. When you're reading any historical argument, including this lecture, it's worth asking: whose interests does this story serve?
+
+## 
+
 ## Consensus Historians: The Cold War Synthesis
 
 After World War II, a new generation of historians emerged with a very different sensibility. The world had just witnessed the horrors of fascism and was now locked in an existential struggle with Soviet communism. In this context, the Progressive School's emphasis on conflict and class struggle started to look a little too... well... Marxist.
@@ -40,62 +82,5 @@ This represents a direct challenge to both Progressive/Marxist approaches (which
 
 Any history that reduces human action to simple calculations of material interest is missing something essential about how people actually think and act.
 
-## Pause for Reflection: Engines of Change
+## 
 
-Let's pause here and synthesize what we've seen. We've now encountered multiple answers to the question we raised on Day One: what is the engine of change in history?
-
-**Adams:** Racial inheritance (biological determinism)
-
-**Turner:** Environmental encounter (environmental determinism combined with human agency)
-
-**Dunning:** The presence or absence of 'fit' leaders (inverted Great Man Theory)
-
-**Du Bois:** Collective agency of the oppressed
-
-**Beard:** Economic interest and class conflict (near-Marxist materialism)
-
-**Consensus historians:** Shared liberal ideology
-
-**Ideological School:** Genuinely held ideas and beliefs
-
-Notice that these aren't just disagreements about what happened. They're disagreements about how history works. Each framework produces different questions, highlights different evidence, and tells a different story. This is what historiography reveals: the assumptions we bring to the past shape what we can see.
-
-## Carl Becker: The Question of Objectivity
-
-Now, running through all of these debates is a deeper question, one that the historian Carl Becker posed with particular clarity: Is historical objectivity even possible?
-
-In his famous 1931 presidential address to the American Historical Association, titled 'Everyman His Own Historian,' Becker challenged the scientific pretensions of his profession. History, he argued, is not simply 'what happened'—it is a construction that exists in the historian's mind.
-
-The past itself is gone. It cannot be recovered. What we have are traces—documents, artifacts, memories—and the historian must select from these traces, organize them into a coherent narrative, decide what matters and what doesn't. This process of selection is inevitably shaped by the historian's own concerns, by the questions that seem important in their own time.
-
-Becker's insight was that every generation creates the history it needs. The past doesn't speak for itself; it answers only the questions we ask it. And the questions we ask are determined by our present circumstances.
-
-***Connecting to Day One***
-
-Remember when I said on Day One that history is an argument about the past? Becker is the historian who made that case most forcefully within the profession itself. He's providing the theoretical grounding for our entire approach in this unit.
-
-This doesn't mean that all historical claims are equally valid, or that we can simply make up the past. The evidence constrains us; professional standards discipline us. But within those constraints, there is always interpretation. There is always choice. There is always a perspective.
-
-Becker was asking us to be more humble about what history can achieve, and more honest about what historians actually do.
-
-## Howard Zinn: History as Political Commitment
-
-If Becker raised the question of objectivity, Howard Zinn gave it a provocative answer: objectivity is impossible, so historians should stop pretending and openly take sides.
-
-In 1980, Zinn published A People's History of the United States, and it became a phenomenon—one of the best-selling history books ever written. It has shaped how millions of Americans understand their own past.
-
-Zinn's approach was explicit: he would tell American history from the perspective of the oppressed rather than the oppressors. Columbus through the eyes of the Arawak. The Constitution through the eyes of slaves and workers. Westward expansion through the eyes of the Cherokee on the Trail of Tears. Industrialization through the eyes of the laborers, not the robber barons.
-
-Zinn represented the 'New Left' historiography that emerged from the social movements of the 1960s and 70s. These historians saw their work not as detached scholarship but as political intervention. If traditional history had served power by celebrating national myths and ignoring victims, then critical history should expose those myths and recover those victims.
-
-***Historiographical Analysis: Zinn***
-
-**What's Zinn's engine of change?** Class conflict and popular resistance—explicitly influenced by Marxist analysis, but focused particularly on recovering the agency of ordinary people who had been written out of traditional narratives.
-
-**What ideology is at work?** Zinn would say: all history serves some ideology, so we should be honest about which one we're serving. He chose to serve the interests of the oppressed rather than the powerful. This is history as explicit political commitment.
-
-You should know that Zinn remains controversial among professional historians. Critics argue that he sometimes sacrificed nuance for polemic, that he selected evidence to support predetermined conclusions, that he replaced one bias with another rather than transcending bias altogether.
-
-These are fair criticisms. But Zinn's fundamental point remains important: all historical narratives embody choices about perspective, and pretending otherwise doesn't make those choices disappear—it just hides them. Whether you agree with Zinn's politics or not, he forced readers to confront the question: whose story is being told, and whose is being left out?
-
-Compare Zinn to the Dunning School: both are ideologically committed, both select evidence to support their interpretation. The difference is that Zinn announces his commitments openly, while Dunning presented white supremacist interpretation as objective scholarship. Which approach is more honest?

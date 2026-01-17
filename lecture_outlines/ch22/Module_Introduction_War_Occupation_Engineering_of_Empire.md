@@ -1,0 +1,13 @@
+# Module Introduction — War, Occupation, and the Engineering of Empire (1898–1914)
+
+This module examines how the United States became a global power in the years surrounding the Spanish–American War—not simply by winning a conflict, but by learning how to **mobilize public opinion, govern unwilling populations, and build durable systems of global control**. Rather than treating empire as an abstract outcome of victory, these lectures approach it as a process that unfolded in stages.
+
+The first lecture focuses on **1898 as spectacle**. Students explore how mass media, emotional mobilization, and moral urgency made war feel necessary and unavoidable. The Spanish–American War is treated less as a diplomatic response to events and more as a media-driven crisis in which public sentiment became a political force. Theodore Roosevelt appears here not as a heroic anomaly, but as a figure who understood—and exploited—the new politics of visibility.
+
+The second lecture shifts attention to **colonial occupation**, especially in the Philippines. It asks what happens when a war fought in the name of liberation produces responsibility rather than applause. Students confront the Philippine-American War as a colonial conflict requiring sustained coercion, racialized justifications, and new moral reasoning. This lecture highlights the tension between republican ideals and imperial practice, as well as the seriousness of domestic anti-imperialist resistance.
+
+The third lecture moves from occupation to **infrastructure**, centering on the Panama Canal as the moment when American empire became permanent and logistical. Here, power is understood not primarily through speeches or treaties, but through control of space, movement, labor, and disease. The canal reoriented American strategic thinking and made global reach routine. By the time World War I begins, U.S. “neutrality” emerges not as isolation, but as a posture enabled by existing imperial systems.
+
+Across the module, Theodore Roosevelt serves as a connective figure—not as the sole cause of empire, but as someone who articulated, embodied, and systematized its logic. The larger goal is to help students see empire as something that is **sold, enforced, and maintained**, often in mundane and technical ways, and to recognize that dismantling such power is far slower and more contested than building it.
+
+By the end of this module, students should be able to distinguish between war and empire, identify the moral and structural challenges of colonial rule, and understand how infrastructure can shape global power long after battles have ended.

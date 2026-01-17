@@ -1,5 +1,8 @@
 # HIST 102 — United States History Since 1877
 
+Working on Lecture Video of lecture 3 of Historiography; location of project "D:\01_TEACHING\Course_Githubs\hist102\lecture_outlines\historiography"
+
+
 revised Jan 2026
 Local path suggestion:
 D:\01_TEACHING\Course_Githubs\hist102\

@@ -1,5 +1,7 @@
 # Historiography (HIST 101/102) — 3-Lecture Split
 
+Lecture 3 the historians i am working on a video lecture
+
 This project takes the original combined historiography slide-deck markdown file and splits it into **three separate lecture files**, aligned to a **3-day instructional arc** suitable for a community college HIST 101/102 course.
 
 The result is a cleaner pacing structure and easier modular use in teaching (upload by day, revise by day, reuse by day).
